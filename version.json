@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "product_line": "pharmacy",
+  "latest_version": "1.0.0",
+  "download_url": "https://github.com/savas1300/Lidya_Eczane_Update/releases/download/v1.0.0/update_package.zip",
+  "force_update": false,
+  "sha256": "3d5f2f597b84761876000956dfbf048be89eb29deb46c8e79484a17c01311f30",
+  "changelog": [
+    "LİDYA Eczane 1.0.0 ilk yayın."
+  ],
+  "releases": [
+    {
+      "version": "1.0.0",
+      "product_line": "pharmacy",
+      "download_url": "https://github.com/savas1300/Lidya_Eczane_Update/releases/download/v1.0.0/update_package.zip",
+      "changelog": [
+        "LİDYA Eczane 1.0.0 ilk yayın."
+      ],
+      "force_update": false,
+      "blocked": false,
+      "allow_downgrade_to": true,
+      "sha256": "3d5f2f597b84761876000956dfbf048be89eb29deb46c8e79484a17c01311f30"
+    }
+  ]
+}
